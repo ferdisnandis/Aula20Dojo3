@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fernanda1234\\Desktop\\Aula20Dojo3\\Aula20Dojo3.csproj": {}
+    "C:\\Users\\fernanda1234\\Desktop\\School\\Senai EAD\\Trabalho\\Aula20Dojo3\\Aula20Dojo3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fernanda1234\\Desktop\\Aula20Dojo3\\Aula20Dojo3.csproj": {
+    "C:\\Users\\fernanda1234\\Desktop\\School\\Senai EAD\\Trabalho\\Aula20Dojo3\\Aula20Dojo3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fernanda1234\\Desktop\\Aula20Dojo3\\Aula20Dojo3.csproj",
+        "projectUniqueName": "C:\\Users\\fernanda1234\\Desktop\\School\\Senai EAD\\Trabalho\\Aula20Dojo3\\Aula20Dojo3.csproj",
         "projectName": "Aula20Dojo3",
-        "projectPath": "C:\\Users\\fernanda1234\\Desktop\\Aula20Dojo3\\Aula20Dojo3.csproj",
+        "projectPath": "C:\\Users\\fernanda1234\\Desktop\\School\\Senai EAD\\Trabalho\\Aula20Dojo3\\Aula20Dojo3.csproj",
         "packagesPath": "C:\\Users\\fernanda1234\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fernanda1234\\Desktop\\Aula20Dojo3\\obj\\",
+        "outputPath": "C:\\Users\\fernanda1234\\Desktop\\School\\Senai EAD\\Trabalho\\Aula20Dojo3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fernanda1234\\AppData\\Roaming\\NuGet\\NuGet.Config"

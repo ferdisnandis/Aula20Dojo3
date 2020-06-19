@@ -1,0 +1,26 @@
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.csprojAssemblyReference.cache
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.csproj.CoreCompileInputs.cache
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.AssemblyInfoInputs.cache
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.AssemblyInfo.cs
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.exe
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.deps.json
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.runtimeconfig.json
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.runtimeconfig.dev.json
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.dll
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.pdb
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.dll
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.pdb
+C:\Users\fernanda1234\Desktop\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.genruntimeconfig.cache
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.exe
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.deps.json
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.runtimeconfig.json
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.runtimeconfig.dev.json
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.dll
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.pdb
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.csprojAssemblyReference.cache
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.csproj.CoreCompileInputs.cache
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.AssemblyInfoInputs.cache
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.AssemblyInfo.cs
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.dll
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.pdb
+C:\Users\fernanda1234\Desktop\School\Senai EAD\Trabalho\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.genruntimeconfig.cache

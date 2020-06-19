@@ -2,7 +2,7 @@ namespace Aula20Dojo3
 {
     public class Pedido
     {
-        public string itens;
+        public string[] itens;
         public string Cliente { get; set; }
         public string Restaurante { get; set; }
         public string FormaDePGTO { get; set;}
@@ -12,7 +12,7 @@ namespace Aula20Dojo3
             if( PedidoPago == true && FormaDePGTO == "Cartão"){
             return "Pedido pago por cartão, entrega liberada";
             }
-            else if( PedidoPago == false && Forma de pagamento == "Dinheiro"){
+            else if( PedidoPago == false && FormaDePGTO == "Dinheiro" ){
                 return "Pagamento vai ser feito por dinheiro na hora da entrega, entrega liberada";
 
             } return "Pagamento não efetuado";
