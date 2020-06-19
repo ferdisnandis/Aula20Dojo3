@@ -7,31 +7,40 @@ namespace Aula20Dojo3
     {
         static void Main(string[] args)
         {
-
-            System.Console.WriteLine("Nota Fiscal");
-            System.Console.WriteLine();
+            
 
             Cliente cliente = new Cliente("Maria Joaquina");
-            cliente.EnderecoAtual = "Rua das Oliveiras, 666";
+            System.Console.WriteLine("Digite endereço da entrega:");
+            cliente.EnderecoAtual = Console.ReadLine();
+            System.Console.WriteLine();
            System.Console.WriteLine( cliente.MostrarDadosCliente() ); 
+
 
             Restaurante restaurante = new Restaurante("Lanchão do Fabinho");
             restaurante.Endereco = "Rua Jardins, 159";
             System.Console.WriteLine( restaurante.MostrarDadosRestaurante() );
 
             Pedido pedido = new Pedido();
-            
-            string[] itens = {"X-Tudo", "Refrigerante", "Batata Frita"} ;
-            pedido.FormaDePGTO = "Cartão";
+
+
+             for (int i = 0; i < 2; i++)
+            {
+                System.Console.WriteLine("Digite um item");
+                pedido.itens[i] = Console.ReadLine();
+            }
+
+
+
+             System.Console.WriteLine("Itens do pedido: ");
+            System.Console.WriteLine( pedido.itens[0] );
+            System.Console.WriteLine( pedido.itens[1] );
+            System.Console.WriteLine( pedido.itens[2] );
+            System.Console.WriteLine();
+
+            System.Console.WriteLine("Digite a forma de pagamento: ");
+            pedido.FormaDePGTO = Console.ReadLine();
             pedido.PedidoPago = true;
             
-            System.Console.WriteLine();
-            //Itens
-            System.Console.WriteLine("Itens do pedido: ");
-            System.Console.WriteLine( itens[0] );
-            System.Console.WriteLine( itens[1] );
-            System.Console.WriteLine( itens[2] );
-            System.Console.WriteLine();
             //Forma de pagamento
             System.Console.WriteLine($"Forma de Pagamento {pedido.FormaDePGTO}");
             System.Console.WriteLine( pedido.EntregarPedido() );
